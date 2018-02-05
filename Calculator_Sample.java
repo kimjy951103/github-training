@@ -11,7 +11,7 @@ public class Calculator {
 		System.out.println(division(a,b));
 	}
 	
-	private static int sum(int a, int b) {\
+	private static int sum(int a, int b) {
 		int result = a+b;
 		return result;
 	}
